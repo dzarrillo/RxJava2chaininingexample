@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RxJava2 chainining example</string>
+    <string name="get_data">Get data</string>
+    <string name="skillset">Java,C,C++,Javascript,Python,Swift,Kotlin,C#,VB.net,Html5,XML,SQL,NoSQL</string>
+    <string name="data">Data</string>
+</resources>
